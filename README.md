@@ -20,7 +20,7 @@ A versão atual refatora esta implementação numa API de backend com estilo de 
 O projeto segue uma arquitetura por camadas comummente utilizada em aplicações Spring Boot.
 
 src/main/java/com/projeto1/blockchainapi
-
+```
 ├── controller
 ├── config
 ├── service
@@ -28,7 +28,7 @@ src/main/java/com/projeto1/blockchainapi
 ├── dto
 ├── exception
 └── mapper
-
+```
 ### Responsabilidades
 
 **Controlador**
