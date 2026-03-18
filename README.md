@@ -154,5 +154,5 @@ Este projeto foi criado como um exercício de aprendizagem para praticar:
 ---
 
 ## 👤 Autor
-- GitHub: [@Valdemar-Andrade]
+- GitHub: [@Valdemar-Andrade](https://github.com/Valdemar-Andrade)
 - LinkedIn: [Valdemar Valdemar](https://www.linkedin.com/in/valdemar-andrade-8b0b45189)
